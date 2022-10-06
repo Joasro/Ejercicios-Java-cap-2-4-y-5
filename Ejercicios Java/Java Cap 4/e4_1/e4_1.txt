@@ -1,0 +1,9 @@
+4.1
+a)secuencia, selección, repetición.
+b)if y else
+c)controlada por contador
+d)centinela, de señal, de prueba o de bandera.
+e)secuencia.
+f)0
+g)fuertemente tipificado.
+h)coloca antes.
